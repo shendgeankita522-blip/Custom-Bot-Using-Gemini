@@ -81,7 +81,7 @@ existing information.
 
 Add your Streamlit chatbot screenshot here:
 
-![Gemini Chatbot Demo](demo.png)
+![Gemini Chatbot Demo](output/demo.png.png)
 
 ## 🔐 Security
 
