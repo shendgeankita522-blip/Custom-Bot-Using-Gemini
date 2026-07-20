@@ -81,7 +81,7 @@ existing information.
 
 Add your Streamlit chatbot screenshot here:
 
-"C:\Users\Dell\OneDrive\图片\Screenshots 1\Screenshot 2026-07-20 172137.png"
+![Gemini Chatbot Demo](demo.png)
 
 ## 🔐 Security
 
